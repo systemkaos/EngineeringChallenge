@@ -1,0 +1,13 @@
+Powershell V5
+AzureRM Powershell Module
+DSC Powershell Module
+Windows Management Framework 4.0+
+
+#Just use server 2016, Has all prereqs.
+
+An Azure Account capable of running Automation Accounts, Virtual Machines, Storage, and at least Standard_B2s or above sized VMs
+An Automation account already running DSC configuration files
+An Azure Storage Account where Scripts can be stored (For the purpose of airgap or closed networks)
+
+!!!ZERO INTEGRATION WITH Active Directory!!!
+

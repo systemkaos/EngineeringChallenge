@@ -1,0 +1,8 @@
+Tools.ps1
+Scripts/CreateAzureVm-Runtest.ps1
+workflow.txt
+Scripts/testing/
+dev/
+.vscode/launch.json
+Scripts/DSC/DSCBreakWinRm/webserver.mof
+*.code-workspace
